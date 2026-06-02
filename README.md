@@ -1,4 +1,4 @@
-<img align="right" alt="Anime GIF" width="300" src="https://media.tenor.com/DimzPZMypFcAAAAC/laptop.gif">
+<img align="right" alt="Anime GIF" width="50" src="https://media.tenor.com/DimzPZMypFcAAAAC/laptop.gif">
 <h1>
   Hi I'm Ahmad Maulidun
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
