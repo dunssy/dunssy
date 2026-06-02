@@ -1,10 +1,10 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<img align="right" alt="Anime GIF" width="250" src="https://tenor.com/view/anime-hello-hi-hey-there-right-sided-gif-16801589750505876571">
 <h1>
   Hi I'm Ahmad Maulidun
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
+Student Subang State Polytechnic. 
 </p>
 
 - 👨‍💻 I’m currently working on web development technologies like PHP & Laravel.
@@ -18,7 +18,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 	<a href="https://www.linkedin.com/in/ahmad-maulidun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-### 🛠 &nbsp;Technologies that I work with
+### 🛠 &nbsp;Skils
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -30,9 +30,6 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-#### 🖥️ Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### 🔧 Tools
